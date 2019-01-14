@@ -14,8 +14,6 @@
     }
 }
 
-
-
 /* small tablets to big ipads 767-1023 px*/
 @media only screen and (max-width: 1023px){
     body{font-size: 18px;}
@@ -52,7 +50,7 @@
       margin: 0 0 4 0;
     }
     
-    .h3,.icon-big{
+    .h3,.icon-big, .pee{
         text-align: center;
     }
     .icon-big{
