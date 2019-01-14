@@ -1,0 +1,27 @@
+1incredient to a responsive web design
+there are three ingrdient to a responsive web design
+the ingredeint include
+fluid grid: all layout elements are sized in relative unites, such as percentages, instead of absolute units like pixels
+
+2Flexible images: are also sized in relative unites
+
+3medeia queirs: allows us to specify diffrent css style rules for diffrent browsers withs
+
+
+
+4vh means making the item as wide or as high as the view port.
+
+5 the image was found out not to be fulll and such to full it we use background size and set it to cover
+
+6 we centered the image using background-position center
+
+
+Animate.css
+Smooth Scroll
+
+normmalize
+faviicon generator
+grid.css
+https://realfavicongenerator.net/favicon_result?file_id=p1d15igfho18ntkn01dvjim91iq86#.XDw0H1xKg1I
+css minifier
+https://cssminifier.com/
