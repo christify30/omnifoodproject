@@ -40,7 +40,7 @@
 }
 
 /* small phones to small tablets 481-765 px*/
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 765px){
     .footer-nav li{
        display: inline-block; 
         margin-left: 0;
